@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">FISGA</string>
+    <string name="id">Id usuário</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+
+    //MenuPrincipal
+    <string name="perfilcomportamentalbiologico">PERFIL COMPORTAMENTAL BIOLÓGICO</string>
+    <string name="testedefadiga">TESTE DE FADIGA</string>
+    <string name="cpvt">CPVT</string>
+    <string name="jornada">JORNADA</string>
+    <string name="sonometro">SONÔMETRO</string>
+    <string name="relatorios">RELATÓRIOS</string>
+
+    //Relatórios
+    <string name="liberado">LISTA NOMES LIBERADOS</string>
+    <string name="fadigados">LISTA NOMES ALERTA FADIGA</string>
+    <string name="naoenviaram">LISTA NOMES NÃO ENVIARAM TESTE DE FADIGA</string>
+
+    <string name="liberados">Liberados</string>
+    <string name="alertafadiga">Alerta Fadiga</string>
+
+
+</resources>
